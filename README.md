@@ -1024,7 +1024,7 @@ git branch -M main
 Add the GitHub repository:
 
 ```bash
-git remote add origin <YOUR_GITHUB_REPOSITORY_URL>
+git remote add origin https://github.com/ritavishwakarma/node-policy-assessment
 ```
 
 Push the project:
